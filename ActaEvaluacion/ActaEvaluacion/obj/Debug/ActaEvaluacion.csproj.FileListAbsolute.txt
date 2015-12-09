@@ -1,0 +1,15 @@
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\bin\Debug\ActaEvaluacion.exe.config
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\bin\Debug\ActaEvaluacion.exe
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\bin\Debug\ActaEvaluacion.pdb
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\bin\Debug\MySql.Data.dll
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.csprojResolveAssemblyReference.cache
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.Evaluacion.resources
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.Form1.resources
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.MPracticas_MProyectos.resources
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.NAlumno.resources
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.Properties.Resources.resources
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.csproj.GenerateResource.Cache
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.exe
+c:\users\margot\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.pdb
+C:\Users\MARGOT\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.NPractica_NProyectos.resources
+C:\Users\MARGOT\documents\visual studio 2015\Projects\ActaEvaluacion\ActaEvaluacion\obj\Debug\ActaEvaluacion.EPractica_EProyecto.resources
